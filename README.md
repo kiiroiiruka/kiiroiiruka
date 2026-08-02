@@ -1,11 +1,12 @@
 ## Kロード（kiiroiiruka）
 
-東京電機大学 情報システムデザイン学系（28卒）。React Native / Firebase を軸に、企画・実装から拡散まで一人で回すエンジニアです。
+東京電機大学 理工学部 情報システムデザイン学系（28卒）。React Native(Expo) / React + Vite / Firebase を主に使っています。
+狙った目的から逆算してコンセプトを設計し、企画から実装まで形にするのが好きです。
 
-- 🏆 **LINEヤフー主催ハッカソン 最優秀賞**（大学2年 / 院生を含むチームを抑えて受賞・チームリーダー兼未経験メンバー3人の教育担当）
+- 🏆 **LINEヤフー主催ハッカソン 最優秀賞**（大学2年 / 院生を含むチームを破り受賞・チームリーダー兼未経験メンバー3人の教育担当）
 - 💼 **株式会社Lightroads で業務委託開発 1年**（React Native・Expo・Firebase・TypeScript / アジャイル・PRベース）
-- 🎮 **自作3Dゲームがショート動画で10.6万再生**（企画→開発→動画→導線まで一貫設計 / BOOTH 246DL）
-- 🎵 **DTM歴8年**（作詞・作曲・編曲・MIXまで一貫）
+- 🎮 **自作3Dゲームがショート動画で10.6万再生**（企画→開発→拡散までの導線を一貫設計 / BOOTHでゲーム公開し246ダウンロード記録）
+- 🎵 **DTM歴8年**（作詞・作曲・編曲・MIXまで一貫 / リファレンスから相手の描きたいものを汲み取って音にするのが好きです）
 - 📜 Python 3 エンジニア認定基礎試験 合格
 
 ---
@@ -31,8 +32,12 @@
 **ゲーム / その他**
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+![Python](https://img.shields.io/badge/Python_(Pygame_Zero)-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**開発ツール**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Biome](https://img.shields.io/badge/Biome-60A5FA?style=for-the-badge&logo=biome&logoColor=white)
 
 **学習中（バックエンド強化）**
 
@@ -42,18 +47,8 @@
 
 ---
 
-### 🚀 Projects
-
-| プロジェクト | 概要 | 実績 / 技術 |
-|---|---|---|
-| **[github-hackathon-app1](https://github.com/kiiroiiruka/github-hackathon-app1)** | GPS＋音声のカーナビ連動PWAアプリ | 🏆 LINEヤフーハッカソン最優秀賞 / React・Firebase・Cloudflare Workers |
-| **[doryoku-zitennsya](https://github.com/DoryokuShika/doryoku-zitennsya)** | 時事ネタ×クソゲー系3D自転車ゲーム | 📱 動画10.6万再生 / 📥 246DL / Unity・C# |
-| **[game-kodokusyouzyo](https://github.com/kiiroiiruka/game-kodokusyouzyo)** | 素材ゼロで完全自作の長編RPG（イラスト・BGM13曲・シナリオ・実装すべて自作） | 📝 10,000行超 / Python |
-| **[Github-OriginalApp1](https://github.com/kiiroiiruka/Github-OriginalApp1)** | Firebase認証・Firestore同期・PWA対応のメモ管理アプリ | 私生活で常用中 / JavaScript |
-| **[HackathonApp1](https://github.com/kiiroiiruka/HackathonApp1)** | 「誰がいつまで暇か」がわかるアプリ | React Native・Expo・TypeScript・Firebase |
-
----
-
 ### 📫 Links
 
 📄 **ポートフォリオ（実務・制作の詳細まとめ）** → [Notion](https://brindle-virgo-ddf.notion.site/35dc49e1133c8103a9def3abd531771d)
+
+<sub>各プロジェクトの詳細は下部のピン留めリポジトリをご覧ください。</sub>
